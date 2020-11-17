@@ -8,4 +8,17 @@
 ul {
   list-style: none;
 }
+
+header {
+  display: -ms-grid;
+  display: grid;
+}
+
+section {
+  min-height: 100vh;
+}
+
+section .nagoya {
+  position: relative;
+}
 /*# sourceMappingURL=layout.css.map */
