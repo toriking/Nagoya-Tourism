@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+a{
+    text-decoration: none;
+    color: blue;
+}
 ul{
     list-style: none;
 }
@@ -14,6 +18,8 @@ section{
     min-height: 100vh;
     .nagoya{
         position: relative;
-
     }
+}
+.nagoya__item > img{
+    height: 400px;
 }

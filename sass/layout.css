@@ -5,6 +5,11 @@
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
+
 ul {
   list-style: none;
 }
@@ -20,5 +25,9 @@ section {
 
 section .nagoya {
   position: relative;
+}
+
+.nagoya__item > img {
+  height: 400px;
 }
 /*# sourceMappingURL=layout.css.map */
