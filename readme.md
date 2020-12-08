@@ -1,2 +1,3 @@
 # 名古屋観光まとめ
-## HTML・SCSS・Javascript
+## HTML・SCSS・Javascriptで作成されています
+**まとめ**
